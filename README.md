@@ -17,3 +17,4 @@ pause
 
 How to end ADB without damaging phone's software?
 Answer: You need to go to Settings -> Other -> USB Settings -> You need to change from File Transer/Android Auto to Charging Only.
+<img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/13782761-7101-4187-9375-db835a692130" />
